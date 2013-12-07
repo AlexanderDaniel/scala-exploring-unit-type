@@ -5,4 +5,5 @@ about Scala's Unit type:
 
 * [The opening slide as PDF](ExploringTheUnitType.pdf)
 * [The units about the `scala.Unit`](src/main/scala/explore/)
+* [The video](http://www.youtube.com/watch?v=KaKkhRhkFFo) recorded by [Radim](https://twitter.com/radimpavlicek)
 
